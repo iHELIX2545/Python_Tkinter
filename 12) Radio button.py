@@ -34,3 +34,21 @@ label_result=tk.Label(master=window, font=("Arial", 12, "bold"))
 label_result.grid(row=4,column=0,padx=20, pady=10)
 
 window.mainloop()
+
+
+""" 
+* Use ttk.Radiobutton(text, variable) to create a radio button; 
+* the variable should be a tk.IntVar() or tk.StringVar()
+* A set of radio buttons share the same variable.
+* the radio buttons must have value to operate properly
+ """
+
+
+""" 
+Each radio button has a different value. However, radio buttons in the same group share the same variable.
+
+master -> is the parent widget which you place the radio buttons on.
+text -> argument specifies the text that appears on the radio button.
+** value -> argument specifies the value that the radio button will hold. 
+** variable -> must be a tk.IntVar() or tk.StringVar()
+ """
