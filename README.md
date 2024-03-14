@@ -1,5 +1,6 @@
 # Python_Tkinter
 
-While learning the Tkinter package, I have organized my files in this way for easy revision when needed. Please note that my learning is not yet complete, so you may not find everything here. I will continue to update this repository as I learn(if needed) new things. 
+As I delve into the Tkinter package, I've arranged my files systematically for convenient review as needed. It's important to note that my learning journey is ongoing; thus, not all aspects may be covered here. I intend to keep updating this repository with new insights as my learning progresses (if necessary).
 
-Also If you are interested, you can run these .py files while learning Tkinter. This repository might be useful for you :)
+Additionally, if you're exploring Tkinter, feel free to execute these .py files during your learning process as well :)
+
